@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Baris from Cyprus
 - 👀 I’m interested in Javascript and Software Testing
-- 🌱 I’m currently learning Javascript, Cypress, Jest
+- 🌱 I’m currently learning Cypress
 - 📫 How to reach me => @aksay_baris on blue bird app also known as Twitter
 
 <!---
