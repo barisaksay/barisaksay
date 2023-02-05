@@ -2,7 +2,7 @@
 <h3 align="center">Code-testing ninja from Cyprus with a love for Js and Cypress, seeking bugs and destroying them for past 3 years!</h3>
 
 
-- 🔭 I’m currently working on **demo projects using Cypress**
+- 🔭 I’m currently  learning/working on **demo projects using Cypress**
 
 - ⚡ Fun fact: **I can communicate only using GIFs**
 
