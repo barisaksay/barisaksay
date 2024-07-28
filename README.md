@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi,
 
 <h4>I am currently working as QA Engineer</h4>
 
