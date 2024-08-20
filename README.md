@@ -2,7 +2,7 @@
 
 <h4>I am currently working as QA Engineer</h4>
 
-- I’m currently working on **small projects using Javascript and Cypress**
+- I’m currently working on **small projects using Javascript, Cypress, Playwright**
 
 - I’m currently learning **all things related to test automation**
 
